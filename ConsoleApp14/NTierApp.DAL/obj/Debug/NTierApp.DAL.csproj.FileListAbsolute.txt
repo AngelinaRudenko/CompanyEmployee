@@ -1,0 +1,34 @@
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll.config
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.pdb
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.CopyComplete
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.dll
+C:\Users\Alexander\source\repos\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.pdb
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll.config
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.pdb
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.dll
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.xml
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.csprojAssemblyReference.cache
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.CoreCompileInputs.cache
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.CopyComplete
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.dll
+e:\ASP.NET\ConsoleApp14\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\bin\Debug\NTierApp.DAL.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.csprojAssemblyReference.cache
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.CoreCompileInputs.cache
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.CopyComplete
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTierApp.DAL\obj\Debug\NTierApp.DAL.pdb

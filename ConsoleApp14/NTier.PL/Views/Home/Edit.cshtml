@@ -1,0 +1,23 @@
+﻿@using NTierApp.BLL.Models;
+@{string action = ViewBag.Action;}
+@model EmployeeModel
+
+
+@using (Html.BeginForm(action, "Home", FormMethod.Post))
+{
+    <h2>@ViewBag.Action</h2>
+
+    <p>
+        @Html.HiddenFor(x => x.Id)
+        Name: @Html.EditorFor(x => x.FirstName)
+    </p>
+    <p>
+        Surname: @Html.EditorFor(x => x.LastName)
+    </p>
+    <p>
+        Age: @Html.EditorFor(x => x.Age)
+    </p>
+    <button class="btn btn-success">Submit</button>
+}
+
+

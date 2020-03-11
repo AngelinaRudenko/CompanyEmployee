@@ -1,0 +1,33 @@
+﻿@using NTierApp.BLL.Models;
+@model List<EmployeeModel>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>
+    Employees
+    <a href="/Home/Add"><button class="btn btn-success">Add</button></a>
+</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Age</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (EmployeeModel employee in Model)
+        {
+            <tr>
+                <td>@employee.FirstName</td>
+                <td>@employee.LastName</td>
+                <td>@employee.Age</td>
+                <td><a href="/Home/Edit/@employee.Id">Edit</a> / <a href="/Home/Remove/@employee.Id">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

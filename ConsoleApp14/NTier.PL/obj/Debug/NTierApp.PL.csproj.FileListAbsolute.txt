@@ -1,0 +1,392 @@
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTier.PL.dll.config
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTier.PL.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTier.PL.pdb
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\csc.exe
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\csc.exe.config
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\csc.rsp
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\csi.exe
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\csi.exe.config
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\csi.rsp
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Console.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.Pipes.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.AccessControl.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Claims.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\vbc.exe
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\vbc.exe.config
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\vbc.rsp
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Antlr3.Runtime.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Newtonsoft.Json.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Helpers.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Mvc.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Optimization.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Razor.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\WebGrease.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Helpers.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Mvc.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Optimization.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.Razor.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Newtonsoft.Json.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\obj\Debug\NTierApp.PL.csprojAssemblyReference.cache
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\obj\Debug\NTierApp.PL.csproj.CoreCompileInputs.cache
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\obj\Debug\NTierApp.PL.csproj.CopyComplete
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\obj\Debug\NTier.PL.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\obj\Debug\NTier.PL.pdb
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.ValueTuple.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\netstandard.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.AppContext.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Collections.Concurrent.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Collections.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Collections.NonGeneric.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Collections.Specialized.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.EventBasedAsync.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.TypeConverter.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Console.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Data.Common.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Contracts.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Debug.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Process.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Tools.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.TraceSource.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Tracing.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Drawing.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Dynamic.Runtime.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Globalization.Calendars.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Globalization.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Globalization.Extensions.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.Compression.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.DriveInfo.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.Watcher.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.IsolatedStorage.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.MemoryMappedFiles.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.Pipes.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.IO.UnmanagedMemoryStream.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Linq.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Linq.Expressions.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Linq.Parallel.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Linq.Queryable.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.Http.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.NameResolution.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.NetworkInformation.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.Ping.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.Requests.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.Security.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.Sockets.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.WebHeaderCollection.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.WebSockets.Client.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Net.WebSockets.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.ObjectModel.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Reflection.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Reflection.Extensions.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Reflection.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Resources.Reader.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Resources.ResourceManager.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Resources.Writer.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Extensions.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Handles.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.InteropServices.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Numerics.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Formatters.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Json.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Xml.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.Claims.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Csp.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.Principal.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Security.SecureString.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Text.Encoding.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Text.Encoding.Extensions.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Text.RegularExpressions.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Overlapped.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.Parallel.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Thread.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.ThreadPool.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Timer.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Xml.ReaderWriter.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XDocument.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XmlDocument.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XmlSerializer.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XPath.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Autofac.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTierApp.BLL.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\AutoMapper.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTierApp.DAL.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTierApp.BLL.pdb
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTierApp.BLL.dll.config
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Autofac.pdb
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Autofac.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.Extensions.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\AutoMapper.pdb
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\AutoMapper.xml
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTierApp.DAL.pdb
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\NTierApp.DAL.dll.config
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Autofac.Integration.Mvc.dll
+E:\ASP.NET\ConsoleApp14 — копия\ConsoleApp14\NTier.PL\bin\Autofac.Integration.Mvc.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTier.PL.dll.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTier.PL.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTier.PL.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\csc.exe
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\csc.exe.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\csc.rsp
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\csi.exe
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\csi.exe.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\csi.rsp
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.Managed.Core.targets
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.AppContext.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Collections.Immutable.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Console.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.Compression.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.FileSystem.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.IO.Pipes.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Reflection.Metadata.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.AccessControl.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Claims.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Security.Principal.Windows.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.ValueTuple.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.ReaderWriter.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.XmlDocument.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.XPath.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\vbc.exe
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\vbc.exe.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\vbc.rsp
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\VBCSCompiler.exe
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\roslyn\VBCSCompiler.exe.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Algorithms.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.ValueTuple.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Win32.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\netstandard.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.AppContext.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Collections.Concurrent.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Collections.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Collections.NonGeneric.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Collections.Specialized.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.EventBasedAsync.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.ComponentModel.TypeConverter.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Console.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Data.Common.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Contracts.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Debug.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.FileVersionInfo.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Process.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.StackTrace.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.TextWriterTraceListener.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Tools.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.TraceSource.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Diagnostics.Tracing.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Drawing.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Dynamic.Runtime.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Globalization.Calendars.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Globalization.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Globalization.Extensions.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.Compression.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.Compression.ZipFile.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.DriveInfo.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.FileSystem.Watcher.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.IsolatedStorage.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.MemoryMappedFiles.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.Pipes.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.IO.UnmanagedMemoryStream.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Linq.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Linq.Expressions.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Linq.Parallel.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Linq.Queryable.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.Http.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.NameResolution.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.NetworkInformation.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.Ping.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.Requests.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.Security.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.Sockets.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.WebHeaderCollection.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.WebSockets.Client.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Net.WebSockets.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.ObjectModel.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Reflection.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Reflection.Extensions.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Reflection.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Resources.Reader.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Resources.ResourceManager.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Resources.Writer.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.CompilerServices.VisualC.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Extensions.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Handles.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.InteropServices.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Numerics.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Formatters.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Json.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.Serialization.Xml.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.Claims.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Csp.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Encoding.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.Primitives.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.Cryptography.X509Certificates.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.Principal.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Security.SecureString.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Text.Encoding.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Text.Encoding.Extensions.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Text.RegularExpressions.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Overlapped.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.Parallel.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Thread.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.ThreadPool.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Timer.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Xml.ReaderWriter.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XDocument.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XmlDocument.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XmlSerializer.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XPath.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Xml.XPath.XDocument.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Antlr3.Runtime.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Autofac.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Autofac.Integration.Mvc.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.SqlServer.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Web.Infrastructure.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Newtonsoft.Json.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTierApp.BLL.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.Extensions.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Helpers.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Mvc.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Optimization.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Razor.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Deployment.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Razor.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\WebGrease.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\AutoMapper.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTierApp.DAL.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTierApp.BLL.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTierApp.BLL.dll.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Autofac.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Autofac.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Autofac.Integration.Mvc.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\EntityFramework.SqlServer.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Threading.Tasks.Extensions.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Helpers.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Mvc.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Optimization.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.Razor.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Deployment.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\System.Web.WebPages.Razor.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Newtonsoft.Json.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Antlr3.Runtime.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\AutoMapper.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\AutoMapper.xml
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTierApp.DAL.pdb
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\bin\NTierApp.DAL.dll.config
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\obj\Debug\NTierApp.PL.csprojAssemblyReference.cache
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\obj\Debug\NTierApp.PL.csproj.CoreCompileInputs.cache
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\obj\Debug\NTierApp.PL.csproj.CopyComplete
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\obj\Debug\NTier.PL.dll
+e:\ASP.NET\ConsoleApp14 — копия — копия\ConsoleApp14\NTier.PL\obj\Debug\NTier.PL.pdb
