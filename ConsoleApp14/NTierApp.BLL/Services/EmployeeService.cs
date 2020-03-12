@@ -27,8 +27,9 @@ namespace NTierApp.BLL.Interfaces
 
         public void AddEmployee(EmployeeModel model)
         {
-
-            Employee employee = new Employee { FirstName = model.FirstName, LastName = model.LastName, Age = model.Age };
+            var mapper = Automapper.GetMapper();
+            Employee employee = mapper.Map<EmployeeModel, Employee>(model);
+            //Employee employee = new Employee { FirstName = model.FirstName, LastName = model.LastName, Age = model.Age };
             database.Employees.Create(employee);
             database.Save();
         }
@@ -41,7 +42,9 @@ namespace NTierApp.BLL.Interfaces
 
         public void EditEmployee(EmployeeModel model)
         {
-            Employee employee = new Employee { Id = model.Id, FirstName = model.FirstName, LastName = model.LastName, Age = model.Age };
+            var mapper = Automapper.GetMapper();
+            Employee employee = mapper.Map<EmployeeModel, Employee>(model);
+            //Employee employee = new Employee { Id = model.Id, FirstName = model.FirstName, LastName = model.LastName, Age = model.Age };
             database.Employees.Update(employee);
 
             database.Save();

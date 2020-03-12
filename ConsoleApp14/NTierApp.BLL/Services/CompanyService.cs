@@ -24,7 +24,9 @@ namespace NTierApp.BLL.Interfaces
 
         public void AddCompany(CompanyModel model)
         {
-            Company company = new Company { Name = model.Name, Address = model.CompanyAddress };
+            var mapper = Automapper.GetMapper();
+            Company company = mapper.Map<CompanyModel, Company>(model);
+            //Company company = new Company { Name = model.Name, Address = model.CompanyAddress };
             database.Companies.Create(company);
             database.Save();
         }
@@ -45,7 +47,9 @@ namespace NTierApp.BLL.Interfaces
 
         public void EditCompany(CompanyModel model)
         {
-            Company company = new Company { Id = model.Id, Name = model.Name, Address = model.CompanyAddress };
+            var mapper = Automapper.GetMapper();
+            Company company = mapper.Map<CompanyModel, Company>(model);
+            //Company company = new Company { Id = model.Id, Name = model.Name, Address = model.CompanyAddress };
             database.Companies.Update(company);
             database.Save();
         }
